@@ -80,6 +80,10 @@ Verified Meterpreter session establishment
 
 <img width="960" height="141" alt="establish connection" src="https://github.com/user-attachments/assets/0cc2701d-2ebf-49e8-a300-6464d29370ad" />
 
+**After Establish the Connection then we get access using msfconsole --> meterpreter
+**
+<img width="833" height="672" alt="after successful connection" src="https://github.com/user-attachments/assets/048c4cb8-d9d8-492b-a71f-322d0f9b960b" />
+
 
 # phase 3 Security Monitoring & Detection
 **Splunk Detection Queries**
